@@ -1,4 +1,4 @@
-                                                                              Customer Shopping Behavior Analysis
+                    Customer Shopping Behavior Analysis
 
 An end-to-end Data Analytics project that explores customer purchasing patterns, product category performance, seasonal spending, customer segments, discount usage, and customer satisfaction using MS Excel, Python, MySQL, and Power BI.
 
